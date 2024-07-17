@@ -7,5 +7,5 @@ $pip install -r requirements.txt
 
 ### Run
 ```
-$ flask --app app run
+$ flask --app main run
 ```
